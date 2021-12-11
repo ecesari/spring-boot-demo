@@ -1,4 +1,4 @@
-package payroll;
+package com.swe573.socialhub.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
