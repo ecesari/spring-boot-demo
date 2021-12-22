@@ -3,7 +3,7 @@ package com.swe573.socialhub.controller;
 
 import com.swe573.socialhub.assembler.TagModelAssembler;
 import com.swe573.socialhub.exception.TagNotFoundException;
-import com.swe573.socialhub.model.Tag;
+import com.swe573.socialhub.domain.Tag;
 import com.swe573.socialhub.repository.TagRepository;
 import org.springframework.hateoas.CollectionModel;
 import org.springframework.hateoas.EntityModel;

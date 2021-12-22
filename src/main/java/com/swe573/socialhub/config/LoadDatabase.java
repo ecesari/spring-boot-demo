@@ -1,6 +1,6 @@
 package com.swe573.socialhub.config;
 
-import com.swe573.socialhub.model.Tag;
+import com.swe573.socialhub.domain.Tag;
 import com.swe573.socialhub.repository.TagRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

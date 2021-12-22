@@ -1,7 +1,7 @@
 package com.swe573.socialhub.assembler;
 
 import com.swe573.socialhub.controller.TagController;
-import com.swe573.socialhub.model.Tag;
+import com.swe573.socialhub.domain.Tag;
 import org.springframework.hateoas.EntityModel;
 import org.springframework.hateoas.server.RepresentationModelAssembler;
 import org.springframework.stereotype.Component;

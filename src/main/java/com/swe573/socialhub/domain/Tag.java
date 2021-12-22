@@ -44,7 +44,7 @@
 
 
 
-package com.swe573.socialhub.model;
+package com.swe573.socialhub.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
